@@ -42,7 +42,7 @@
     "processedHistoryMessages": [
       {
         "key": {
-          "remoteJid": "6285709344807@s.whatsapp.net",
+          "remoteJid": "6285709344807@s.whatsapp.net"
           "fromMe": true,
           "id": "61E3F5B80C88B114C5324390A4D476A4"
         },
@@ -51,7 +51,7 @@
       {
         "key": {
           "remoteJid": "6285709344807@s.whatsapp.net",
-          "fromMe": true,
+          "fromMe": true
           "id": "ECBB20E52F7750EA7ADBCCE14191F802"
         },
         "timestamp": 1656524467
@@ -72,7 +72,7 @@
       "name": "Maintenance"
     },
     "signalIdentities": [
-      {
+      
         "identifier": {
           "name": "6285709344807:11@s.whatsapp.net",
           "deviceId": 0
@@ -81,7 +81,7 @@
           "type": "Buffer",
           "data": "Bd0XhWPYY16wYqP2832Fat6WuNGrqnsORerGzjr3JpRm"
         }
-      }
+      
     ],
     "platform": "android",
     "lastAccountSyncTimestamp": 1656524490,
